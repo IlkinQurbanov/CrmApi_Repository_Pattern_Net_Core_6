@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\bin\Debug\net6.0\Admin.Core.deps.json
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\bin\Debug\net6.0\Admin.Core.runtimeconfig.json
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\bin\Debug\net6.0\Admin.Core.dll
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\bin\Debug\net6.0\Admin.Core.pdb
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\obj\Debug\net6.0\Admin.Core.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\obj\Debug\net6.0\Admin.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\obj\Debug\net6.0\Admin.Core.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\obj\Debug\net6.0\Admin.Core.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\obj\Debug\net6.0\Admin.Core.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\obj\Debug\net6.0\Admin.Core.dll
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\obj\Debug\net6.0\refint\Admin.Core.dll
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\obj\Debug\net6.0\Admin.Core.pdb
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\obj\Debug\net6.0\Admin.Core.genruntimeconfig.cache
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Core\obj\Debug\net6.0\ref\Admin.Core.dll

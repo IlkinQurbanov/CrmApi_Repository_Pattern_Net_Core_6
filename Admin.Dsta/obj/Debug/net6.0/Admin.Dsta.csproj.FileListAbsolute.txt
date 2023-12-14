@@ -1,0 +1,17 @@
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\bin\Debug\net6.0\Admin.Dsta.deps.json
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\bin\Debug\net6.0\Admin.Dsta.runtimeconfig.json
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\bin\Debug\net6.0\Admin.Dsta.dll
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\bin\Debug\net6.0\Admin.Dsta.pdb
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\bin\Debug\net6.0\Admin.Core.dll
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\bin\Debug\net6.0\Admin.Core.pdb
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\obj\Debug\net6.0\Admin.Dsta.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\obj\Debug\net6.0\Admin.Dsta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\obj\Debug\net6.0\Admin.Dsta.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\obj\Debug\net6.0\Admin.Dsta.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\obj\Debug\net6.0\Admin.Dsta.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\obj\Debug\net6.0\Admin.Dsta.csproj.CopyComplete
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\obj\Debug\net6.0\Admin.Dsta.dll
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\obj\Debug\net6.0\refint\Admin.Dsta.dll
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\obj\Debug\net6.0\Admin.Dsta.pdb
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\obj\Debug\net6.0\Admin.Dsta.genruntimeconfig.cache
+C:\Users\ilkin\source\repos\StudentCRM\Admin.Dsta\obj\Debug\net6.0\ref\Admin.Dsta.dll
